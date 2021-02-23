@@ -28,7 +28,7 @@ input {
 }
 .btn-form {
     width: 95px;
-    background-color: orange;
+    background-color: coral;
     color: rgb(255, 255, 255);
 }
 .city-input {
@@ -102,7 +102,7 @@ button {
     align-items: center;
     font-family: 'Anton', sans-serif;
     font-size: 2vw;
-    color: #e97f15;
+    color: whitesmoke;
     padding: 4%;
     
 }
@@ -114,19 +114,19 @@ button {
 footer {
     position: relative;
     font-size: 1vw;
-    color:#e97f15;
+    color: coral;
     margin-top: 2%;
 }
 
 .btn-form:hover {
     cursor: pointer;
-    color: orangered;
+    color: coral;
     transition: all linear 0.3s;
 }
 
 button:hover {
     cursor: pointer;
-    color: orangered;
+    color: coral;
     transition: all linear 0.3s;
 
 }
